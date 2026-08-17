@@ -14,7 +14,7 @@ A aplicação é contida em um único arquivo de código sem nenhuma dependênci
 
 1. **Acesso Online (GitHub Pages)**:
    Acesse a aplicação rodando diretamente no navegador através do link abaixo:
-   👉 ****
+   👉 **https://github.com/joaohgabriell/jogo-da-velha-unifor**
 
 2. **Acesso Local**:
    - Clone o repositório ou baixe o arquivo ZIP.
